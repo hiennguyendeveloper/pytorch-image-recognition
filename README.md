@@ -21,3 +21,6 @@ disk/folder/project name
 
 ### uninstall numpy 2.0 and install numpy 1.24
 pip install numpy==1.24.1
+
+### list all the dependency for requirement file
+pip freeze
